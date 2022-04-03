@@ -1,0 +1,36 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "Project 3 - Social Network",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vithursan6/social-network.git"
+  },
+  "keywords": [
+    "Project",
+    "3",
+    "Social",
+    "Network",
+    "MERN",
+    "SPA",
+    "app"
+  ],
+  "author": "vithursan6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vithursan6/social-network/issues"
+  },
+  "homepage": "https://github.com/Vithursan6/social-network#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.3",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.15"
+  }
+}
